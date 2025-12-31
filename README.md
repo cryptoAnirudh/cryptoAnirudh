@@ -1,50 +1,48 @@
 <div align="center">
-  
+
 # 👋 Hi, I'm Anirudh Singh
-  
+
 **Cybersecurity Enthusiast | AWS Cloud Specialist**
 
 </div>
 
 ---
 
-## 🔧 Tech Stack
+## 🔧 Technical Skills
 
-| **Category** | **Technologies & Tools** |
-|--------------|--------------------------|
-| **Languages** | Java, Python, SQL, JavaScript, HTML/CSS |
-| **Security Tools** | Nmap, Wireshark, Metasploit, Splunk, Snort |
-| **Cloud & DevOps** | AWS (EC2, S3, IAM, VPC, CloudFormation), Git, Linux |
-| **Web Development** | React, Node.js, MongoDB |
+**Programming & Scripting:**  
+Java, Python, SQL, JavaScript, HTML, CSS  
 
----
+**Security Tools:**  
+Nmap, Wireshark, Metasploit, Splunk, Snort  
 
-## 🎯 Focus Areas
+**Cloud & DevOps:**  
+AWS (EC2, S3, IAM, VPC, CloudFormation), Git, Linux  
 
-- 🔐 **Penetration Testing & Vulnerability Assessment**
-- ☁️ **AWS Cloud Security & Solution Architecture**
-- 🛡️ **Application Security & OWASP Compliance**
-- 📡 **OSINT & Cyber Threat Intelligence**
+**Web Technologies:**  
+React, Node.js, MongoDB  
 
 ---
 
-## 🚀 Currently Exploring
+## 🎯 Areas of Interest
 
-- 📚 Advancing my AWS Security & Solutions Architect certifications
-- 🤖 Implementing ML for threat detection and automated security
-- 🛠️ Contributing to open-source security projects and tools
-
----
-
-## 📫 Connect With Me
-
-| | |
-|---|---|
-| **📧 Email** | anirudhsingh2708@gmail.com |
-| **💼 LinkedIn** | linkedin.com/in/anirudh |
-| **🐙 GitHub** | github.com/anirudh |
+- Penetration Testing & Vulnerability Assessment  
+- AWS Cloud Security & Solution Architecture  
+- Application Security & OWASP Best Practices  
+- OSINT & Cyber Threat Intelligence  
 
 ---
 
-> "Security is not a product, but a process." – Bruce Schneier
+## 🚀 Currently Learning
 
+- Preparing for **AWS Security** and **Solutions Architect** certifications  
+- Exploring **machine learning applications** in threat detection  
+- Contributing to **open-source security projects**
+
+---
+
+<div align="center">
+
+*Focused on building secure systems, strengthening cloud environments, and continuous skill development.*
+
+</div>
