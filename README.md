@@ -20,7 +20,7 @@ Nmap, Wireshark, Metasploit, Splunk, Snort
 AWS (EC2, S3, IAM, VPC, CloudFormation), Git, Linux  
 
 **Web Technologies:**  
-React, Node.js, MongoDB  
+React, Node.js
 
 ---
 
